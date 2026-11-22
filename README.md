@@ -1,2 +1,2 @@
-# business_plan1
+# 事業計画
 business_plan1
